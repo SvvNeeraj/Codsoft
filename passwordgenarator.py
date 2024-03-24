@@ -33,27 +33,3 @@ def main():
     
     password = generate_password(length, complex_flag)
     print("Generated Password:", password)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-if __name__ == "__main__":
-    main()
